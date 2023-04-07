@@ -1,0 +1,76 @@
+[section effect="sparkle" padding="0px" margin="0px" border="0px 0px 0px 0" border_margin="0px 0px
+0px -." border_style="dashed" border_radius="50" border_hover="slide"]
+
+[ux_banner label="کسب سود از بازار فارکس" height="658px" height__sm="648px" bg="546" bg_size="original" border="0 0px 0px 0px" border_margin="31px 0px 0px 0px" video_webm="https://successtrade.ir/wp-content/uploads/2022/09/successtrade-1.webm" video_visibility="visible"]
+
+[text_box position_x="50" position_y="50"]
+
+[ux_text font_size="1.9" font_size__sm="1.3" text_color="rgb(255, 255, 255)"]
+
+<p><span style="font-size: 150%;"><span style="color: #ed1c24;"><strong>تجارت موفق</strong></span> <span style="color: #282828;">در انتظار شماست</span><span style="color: #ed1c24;">.</span></span></p>
+[/ux_text]
+[row]
+
+[col span="6" span__sm="12"]
+
+[button text="می‌خواهم تجارت موفقی داشته باشم." color="success" size="xlarge" animate="fadeInLeft" padding="0px 9px 0px 9px" expand="0" link="http://successtrade.ir/%d8%aa%d8%af%d8%b1%db%8c%d8%b3-%d8%ae%d8%b5%d9%88%d8%b5%db%8c-%d8%aa%d8%b1%db%8c%d8%af/" target="_blank"]
+
+
+[/col]
+
+[/row]
+
+[/text_box]
+
+[/ux_banner]
+
+[/section]
+[section]
+
+[blog_posts style="shade" type="grid" grid_height="500px" width="full-width" animate="fadeInDown" posts="4" title_size="larger" show_date="false" excerpt="false" show_category="label" comments="false" image_size="large" image_overlay="rgba(0, 0, 0, 0.09)" image_hover="overlay-remove" text_size="xlarge" text_padding="10% 0px 10% 0px"]
+
+<h2><span style="color: #ed1c24;"><strong><span style="font-family: pppppppp; font-size: 160%;">موسسه تجارت موفق چگونه شروع شد؟</span></strong></span></h2>
+<p><span style="color: #000000; font-family: pppppppp; font-size: 160%;">زمانی که ما در بازار‌های مالی فعالیت می‌کردیم افرادی را می‌دیدیم که همواره به دنبال پکیج‌هایی که بتواند آنها را سودده کنند می‌گشتند. از این پکیج به آن پکیج بدون اینکه سوددهی‌ای اتفاق بیافتد. ما از همان اول مخالف پکیج‌فروشی بودیم و هستیم. بنابراین جهت کمک به این افراد راهی را طراحی کرده‌ایم تا بتوانند به آنی که مد نظرشان است برسند. محتوایی می‌نویسیم که آگاهی این هم‌وطنانمان را افزایش دهد. هدف ما در موسسه تجارت موفق این است که بتوانیم گره از کار کسانی که می خواهند تریدر شوند بگشاییم و مسیر درست را به آن‌ها نشان دهیم.</span></p>
+
+[/section]
+[section bg="1303" bg_size="original" parallax="3"]
+
+[row]
+
+[col span__sm="12"]
+
+<h1><span style="color: #000000; background-color: #ffff00;">تجارت موفق<span style="color: #ed1c24;">:</span></span></h1>
+<h3 style="text-align: center;"><span style="color: #000000; font-size: 150%;">چطور می تونیم کمکتون کنیم<span style="color: #ed1c24;">؟</span></span></h3>
+
+[/col]
+
+[/row]
+[row v_align="equal"]
+
+[col span="3" span__sm="12"]
+
+
+[/col]
+[col span="6" span__sm="12"]
+
+[ux_image_box img="603" image_height="75%" image_size="original"]
+
+[ux_text font_size="1.45"]
+
+<h2 style="text-align: center;"><span style="color: #d83131; font-family: pppppppp; font-size: 90%;">تدریس خصوصی ترید</span></h2>
+<p style="text-align: center;"><span style="font-size: 90%;"><span style="font-family: pppppppp; color: #000000;">اگر در مهارت ترید کردن دچار مشکل شدید یا نیاز به کسی دارید که کمکتون کنه <span style="color: #ed1c24;">، </span><a href="http://successtrade.ir/%d8%aa%d8%af%d8%b1%db%8c%d8%b3-%d8%ae%d8%b5%d9%88%d8%b5%db%8c-%d8%aa%d8%b1%db%8c%d8%af/"><span style="color: #00aae7;">فرم تدریس خصوصی</span></a> برای شما طراحی شده تا ما بتوانیم با شناخت نیاز های شما <span style="color: #ed1c24;">،</span>خدمت رسانی </span><span style="font-family: pppppppp; color: #000000;">بهتری به شما داشته باشیم<span style="color: #ed1c24;">.</span></span></span></p>
+[/ux_text]
+[button text="تدریس خصوصی" color="alert" style="shade" radius="5" depth="3" depth_hover="5" link="http://successtrade.ir/%d8%aa%d8%af%d8%b1%db%8c%d8%b3-%d8%ae%d8%b5%d9%88%d8%b5%db%8c-%d8%aa%d8%b1%db%8c%d8%af/" target="_blank"]
+
+
+[/ux_image_box]
+
+[/col]
+[col span="3" span__sm="6" divider="true"]
+
+
+[/col]
+
+[/row]
+
+[/section]
